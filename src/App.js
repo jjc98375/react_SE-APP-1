@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Welcome to our discussion forum</h2>
         <i>All copyrights are reserved by Jaehun and his manager.</i>
-        <p>hehe</p>
+        <p>hehe, this is another fetch</p>
       </header>
     </div>
   );
